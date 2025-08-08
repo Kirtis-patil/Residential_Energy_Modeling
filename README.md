@@ -1,1 +1,1 @@
-# Waste_Detection
+# Residential_Energy_Modeling
